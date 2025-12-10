@@ -1,0 +1,18 @@
+{
+  "name": "sca-test-small",
+  "version": "1.0.0",
+  "description": "Small package for SCA testing (minimal dependencies).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sca",
+    "test",
+    "small"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "fast-deep-equal": "3.1.3"
+  }
+}
