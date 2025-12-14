@@ -1,5 +1,5 @@
 {
-  "name": "massive",
+  "name": "large",
   "version": "1.0.0",
   "description": "Huge package for SCA testing (maximum dependency bloat).",
   "main": "index.js",
