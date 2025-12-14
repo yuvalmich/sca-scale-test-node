@@ -1,5 +1,5 @@
 {
-  "name": "sca-test-huge",
+  "name": "massive",
   "version": "1.0.0",
   "description": "Huge package for SCA testing (maximum dependency bloat).",
   "main": "index.js",

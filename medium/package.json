@@ -1,5 +1,5 @@
 {
-  "name": "sca-test-medium",
+  "name": "medium",
   "version": "1.0.0",
   "description": "Medium package for SCA testing (standard utilities).",
   "main": "index.js",

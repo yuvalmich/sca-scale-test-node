@@ -1,5 +1,5 @@
 {
-  "name": "sca-test-small",
+  "name": "small",
   "version": "1.0.0",
   "description": "Small package for SCA testing (minimal dependencies).",
   "main": "index.js",

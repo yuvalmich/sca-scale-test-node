@@ -1,5 +1,5 @@
 {
-  "name": "sca-test-xlarge",
+  "name": "huge",
   "version": "1.0.0",
   "description": "Extra Large package for SCA testing (frontend and full-stack setup).",
   "main": "index.js",
