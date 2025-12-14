@@ -1,4 +1,4 @@
-# sca-scale-test
+# sca-scale-test-node
 
 ## Package Data
 
